@@ -1,4 +1,4 @@
-[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32c6354b-a83f-4d7c-9c60-4b1b5dc1b19d/deploy-status)](https://app.netlify.com/sites/festive-austin-5f3c90/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/3f3349ca-5c2b-4ced-9389-1ca2daba2036/deploy-status)](https://app.netlify.com/sites/eager-beaver-b1af73/deploys) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
  
 # How To Use 
 
@@ -28,7 +28,7 @@ run story book for view documentation components
 run story book for view documentation components with `npm run storybook`
 Open [http://localhost:6006](http://localhost:6006) to view it in the browser, or you can open online documentation : <br />
 
-[Click This Link For Open Documentation Online](https://trusting-rosalind-4535c1.netlify.com/)
+[Click This Link For Open Documentation Online](https://eager-beaver-b1af73.netlify.app/)
 
 
 
