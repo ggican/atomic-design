@@ -19,11 +19,11 @@ const FormSubscribe = ({ onSubmitForm }) => {
             </Text.Title>
             <Form onSubmitForm={onSubmitForm}>
                 <Form.Group>
-                    <Form.Label>Name</Form.Label>
+                    <Form.Label>Email</Form.Label>
                     <Form.Input name="email" type="email" />
                 </Form.Group>
                 <Form.Group>
-                    <Form.Label>Email</Form.Label>
+                    <Form.Label>Password</Form.Label>
                     <Form.Input name="password" type="password" />
                 </Form.Group>
                 <Form.Group>

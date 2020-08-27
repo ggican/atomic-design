@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/166feb4a-7945-4abf-9125-d1cae40165c7/deploy-status)](https://app.netlify.com/sites/stoic-kalam-3e2a64/deploys) [![Build Status](https://travis-ci.org/ggican/-poke-api.svg?branch=master)](https://travis-ci.org/ggican/-poke-api)  [![Coverage Status](https://coveralls.io/repos/github/ggican/-poke-api/badge.svg?branch=master)](https://coveralls.io/github/ggican/-poke-api?branch=master) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
  
 # How To Use 
 
--  first just git clone the repo ```git clone git@github.com:ggican/-poke-api.git```
+-  first just git clone the repo ```git@github.com:ggican/atomic-design.git```
 - run install after clone ```npm install```
 - run start with environment local ```npm run start:local```
 - if you went try test just run ```npm run test```
