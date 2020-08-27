@@ -1,0 +1,22 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import { ThemeProvider } from "styled-components";
+import App from "./app";
+
+import * as serviceWorker from "./serviceWorker";
+import { StoreProvider } from "./reducers/index";
+import tokens from "./components/__tokens";
+import "./styles/index.css";
+{
+    console.log(tokens);
+}
+ReactDOM.render(
+    <ThemeProvider theme={tokens}>
+        <StoreProvider>
+            <App />
+        </StoreProvider>
+    </ThemeProvider>,
+    document.getElementById("root"),
+);
+
+serviceWorker.register();

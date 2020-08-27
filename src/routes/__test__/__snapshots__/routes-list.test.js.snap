@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test app routesList snapshoot 1`] = `
+Array [
+  Object {
+    "component": Object {
+      "$$typeof": Symbol(react.lazy),
+      "_ctor": [Function],
+      "_result": null,
+      "_status": -1,
+    },
+    "path": "/",
+    "role": Array [
+      "GUEST",
+    ],
+  },
+  Object {
+    "component": Object {
+      "$$typeof": Symbol(react.lazy),
+      "_ctor": [Function],
+      "_result": null,
+      "_status": -1,
+    },
+    "path": "/login",
+    "role": Array [
+      "GUEST",
+    ],
+    "style": Object {
+      "header": Object {
+        "withBackButton": true,
+      },
+    },
+  },
+]
+`;
